@@ -9,6 +9,7 @@ When the chart date level is selected as day and month, the days of the same mon
 When the switch button at the top right of the page is activated, the application uses the static values ​​in the MainPage page, the purpose of which is to easily test the application with different data.
 
 ## Run Projct
-For start project you can run use:
+To run the project, you must run the following commands in order:
 
+### `npm install`
 ### `npm start`
